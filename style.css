@@ -1,0 +1,32 @@
+body {
+    margin: 100px;
+    padding: 0px;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 150px;
+}
+img{
+    width: 30%;
+    margin-left: 400px;
+}
+.partner{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+.chiti{
+    color: white;
+    background-color: red;
+    width: 30%;
+    padding: 10px;
+    text-align: justify;
+}
+p{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
